@@ -15,7 +15,7 @@ Our Resume Generator CLI Tool stands out for its simplicity, flexibility, and th
 
 ## Video Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the Demo](https://ibb.co/5jp1620.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
 Click the image above to watch a short demo of the Resume Generator CLI Tool in action. In this video, we demonstrate how to input information, preview the resume, and generate the final PDF document.
 
