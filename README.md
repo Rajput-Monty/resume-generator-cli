@@ -16,7 +16,7 @@ Our Resume Generator CLI Tool stands out for its simplicity, flexibility, and th
 ## Video Demo
 
 <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE">
-  <img src="https://raw.githubusercontent.com/Rajput-Monty/resume-generator-cli/master/Demoimg" alt="Watch the Demo" width="400" height="300">
+  <img src="https://raw.githubusercontent.com/Rajput-Monty/resume-generator-cli/master/Demoimg" alt="Watch the Demo" width="450" height="300">
 </a>
 
 Click the image above to watch a short demo of the Resume Generator CLI Tool in action. In this video, we demonstrate how to input information, preview the resume, and generate the final PDF document.
