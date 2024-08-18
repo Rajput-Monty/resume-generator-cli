@@ -15,7 +15,7 @@ Our Resume Generator CLI Tool stands out for its simplicity, flexibility, and th
 
 ## Video Demo
 
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE">
+<a href="https://youtu.be/bbpr7xV5mYI?si=FOUO56j2B85JcoB1">
   <img src="https://raw.githubusercontent.com/Rajput-Monty/resume-generator-cli/master/Demoimg" alt="Watch the Demo" width="450" height="300">
 </a>
 
