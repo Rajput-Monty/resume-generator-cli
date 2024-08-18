@@ -44,7 +44,7 @@ Click the image above to watch a short demo of the Resume Generator CLI Tool in 
 3. **Run the Application:**
 
    ```bash
-     cargo run
+   cargo run
    ```
 
 ### Usage
@@ -62,7 +62,7 @@ Click the image above to watch a short demo of the Resume Generator CLI Tool in 
    You can preview the generated resume by running
 
    ```bash
-     cargo run -- --view
+   cargo run -- --view
    ```
 
 ### Source Files
